@@ -17,7 +17,7 @@ It builds each letter from repeated digits, handles backspaces, and recognizes p
 I split some logic into helper methods to keep the main method cleaner:
 - One method converts a group of digits into a letter.
 - Another maps digits to letters like on a phone keypad.
-This is how I would naturally approach the problem as a student: focusing on clarity, logic, and making sure each part works before moving on.
+This is how I would naturally approach the problem: focusing on clarity, logic, and making sure each part works before moving on.
 ---
 ---
 ## 🙌 Final Thoughts

@@ -26,8 +26,6 @@ After your initial feedback, I made several enhancements to improve the code qua
 - **Error Handling**: Implemented appropriate exception handling for better reliability.
 - **Code Organization**: Structured the test cases more clearly with descriptive output.
 
-These improvements maintain the original functionality while making the code more robust and professional.
-
 ## 🙌 Final Thoughts
 This project was a fun way to put my logic and C# fundamentals into practice. I made sure to keep the code clear and easy to follow, while also incorporating best practices.  
 Thanks for the opportunity to show how I approach and solve problems!
